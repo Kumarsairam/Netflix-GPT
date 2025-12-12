@@ -83,7 +83,7 @@ const Login = () => {
             <h1 className="text-3xl font-bold mb-4">
                 {isSignInForm ? "Sign In" : "Sign Up"}
             </h1>
-            {!isSignInForm && <input type="text" placeholder="Full Name" className="p-3 my-4 w-full bg-gray-700 rounded-md"/>}
+            {!isSignInForm && <input ref={name} type="text" placeholder="Full Name" className="p-3 my-4 w-full bg-gray-700 rounded-md"/>}
             <input ref={email} type="text" placeholder="Email or mobile number" className="p-3 my-4 w-full bg-gray-700 rounded-md"/>
             <input ref={password} type="password" placeholder="Password" className="p-3 my-4 w-full bg-gray-700 rounded-md"/>
             <p className="text-red-500 font-bold text-lg py-2">{errorMessage}</p>
