@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "netflixgpt-2c0a3"
+  },
+  "targets": {
+    "netflixgpt-2c0a3": {
+      "hosting": {
+        "default": [
+          "netflixgpt-2c0a3"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
