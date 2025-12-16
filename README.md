@@ -28,6 +28,8 @@
 - Update dtore with trailer video data.
 - Embedded the youtube video and make it autoplay and mute.
 - Tailwind CSS to make MainContainer look good.
+- Build Secondary Component.
+
 
 
 # Features
