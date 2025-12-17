@@ -29,6 +29,16 @@
 - Embedded the youtube video and make it autoplay and mute.
 - Tailwind CSS to make MainContainer look good.
 - Build Secondary Component.
+- Build movie list.
+- build movie card.
+- TMDB image CDN_URL.
+- Made the browse page look good using Tailwind CSS.
+- Created usePopularMovies,useTopRatedMovies,useUpcomingMovies custom hook.
+- GPT search page.
+- GPT search bar.
+- Multi-language feature in our App.
+- 
+
 
 
 
